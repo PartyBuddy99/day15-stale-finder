@@ -1,0 +1,6 @@
+{
+  "bucket": "tejasvi-day9-test-bucket",
+  "folder": "backup_test",
+  "prefix": "backup",
+  "profile": "devops-learner"
+}
